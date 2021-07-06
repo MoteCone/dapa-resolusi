@@ -1,5 +1,5 @@
 rencana konten
 
-Javascript
+Javascript (ES 6, FrameWork)
 PHP Frameworks
 Vlog
